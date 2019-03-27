@@ -1,0 +1,19 @@
+Instructions
+
+
+To merge:
+
+Merging will combine any supporting documents that have a Claimnumber_XX then place them into a merged folder.
+All other documents will be renamed to be in the format Claimnumber_XX.pdf and also be moved to
+the merged folder
+
+PDFStitcherConsole.exe -M -F "C:\Users\ksingh\Desktop\Current Work\Newfolder\supp" 
+
+To Append:
+
+Append will merge the claim pdf with the corresponding supporting document pdf. This is based off of if file name MATCHES
+
+PDFStitcherConsole.exe -k ClaimNumber_ -A -S "<supporting document>" -C "<claims>"
+
+
+** I will create a bat script that will make the commandline arguments easier to use **

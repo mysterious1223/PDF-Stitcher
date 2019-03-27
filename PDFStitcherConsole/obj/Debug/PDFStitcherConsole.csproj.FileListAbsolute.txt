@@ -1,0 +1,8 @@
+C:\Users\ksingh\source\repos\PDFStitcherConsole\PDFStitcherConsole\bin\Debug\PDFStitcherConsole.exe.config
+C:\Users\ksingh\source\repos\PDFStitcherConsole\PDFStitcherConsole\bin\Debug\PDFStitcherConsole.exe
+C:\Users\ksingh\source\repos\PDFStitcherConsole\PDFStitcherConsole\bin\Debug\PDFStitcherConsole.pdb
+C:\Users\ksingh\source\repos\PDFStitcherConsole\PDFStitcherConsole\obj\Debug\PDFStitcherConsole.csproj.CoreCompileInputs.cache
+C:\Users\ksingh\source\repos\PDFStitcherConsole\PDFStitcherConsole\obj\Debug\PDFStitcherConsole.exe
+C:\Users\ksingh\source\repos\PDFStitcherConsole\PDFStitcherConsole\obj\Debug\PDFStitcherConsole.pdb
+C:\Users\ksingh\source\repos\PDFStitcherConsole\PDFStitcherConsole\obj\Debug\PDFStitcherConsole.csproj.CopyComplete
+C:\Users\ksingh\source\repos\PDFStitcherConsole\PDFStitcherConsole\obj\Debug\PDFStitcherConsole.csprojAssemblyReference.cache
